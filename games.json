@@ -2,38 +2,38 @@
   "games": [
     {
       "name": "Fortnite",
-      "ps5": "PPSA01922",
-      "ps4": "CUSA07022"
+      "ps4_ids": ["CUSA07022"],
+      "ps5_ids": ["PPSA01922"]
     },
     {
       "name": "Call of Duty: Modern Warfare 4",
-      "ps5": "",
-      "ps4": ""
+      "ps4_ids": [],
+      "ps5_ids": []
     },
     {
       "name": "Grand Theft Auto V",
-      "ps5": "PPSA04264",
-      "ps4": "CUSA00419"
+      "ps4_ids": ["CUSA00419"],
+      "ps5_ids": ["PPSA04264"]
     },
     {
       "name": "Grand Theft Auto VI",
-      "ps5": "",
-      "ps4": ""
+      "ps4_ids": [],
+      "ps5_ids": []
     },
     {
       "name": "Battlefield 6",
-      "ps5": "PPSA19534",
-      "ps4": ""
+      "ps4_ids": [],
+      "ps5_ids": ["PPSA19534"]
     },
     {
       "name": "Halloween",
-      "ps5": "",
-      "ps4": ""
+      "ps4_ids": [],
+      "ps5_ids": []
     },
     {
       "name": "Phasmophobia",
-      "ps5": "",
-      "ps4": ""
+      "ps4_ids": [],
+      "ps5_ids": []
     }
   ]
 }
