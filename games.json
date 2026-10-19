@@ -1,11 +1,11 @@
 {
   "games": [
-    "Fortnite",
-    "Call of Duty: Modern Warfare 4",
-    "Grand Theft Auto V",
-    "Grand Theft Auto VI",
-    "Battlefield 6",
-    "Halloween",
-    "Phasmophobia"
+    {"name": "Fortnite", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Call of Duty: Modern Warfare 4", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Grand Theft Auto V", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Grand Theft Auto VI", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Battlefield 6", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Halloween", "ps4_ids": [], "ps5_ids": []},
+    {"name": "Phasmophobia", "ps4_ids": [], "ps5_ids": []}
   ]
 }
